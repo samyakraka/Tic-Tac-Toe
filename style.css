@@ -71,6 +71,8 @@ h1{
 @media screen and (max-width: 480px) {
     .msg {
        font-size: 6vmin;
+       margin-top:20px;
+       margin-bottom:20px;
     }
     .msg-container{
        margin-top:20px;
