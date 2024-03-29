@@ -67,3 +67,9 @@ h1{
     border-radius: 1rem;
     border: none;
 }
+
+@media screen and (max-width: 480px) {
+    .msg {
+       font-size: 6vmin;
+    }
+}
