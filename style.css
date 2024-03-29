@@ -72,4 +72,8 @@ h1{
     .msg {
        font-size: 6vmin;
     }
+    .msg-container{
+       margin-top:20px;
+       margin-bottom:20px;
+    }
 }
